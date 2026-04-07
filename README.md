@@ -1,2 +1,12 @@
 # test-repo2
 .github/workflows/blank.yml
+name: platform_context
+description: The context for GitOps platform, this will drive GitOps specific policies
+owner: 
+resource: repository
+where: 
+configuration:
+  platformContext:
+    active: true
+onFailure: 
+onSuccess:
