@@ -6,3 +6,13 @@ func EvenOrOdd(number int) string {
         return "odd"
     }
 }
+name: platform_context
+description: The context for GitOps platform, this will drive GitOps specific policies
+owner: 
+resource: repository
+where: 
+configuration:
+  platformContext:
+    active: true
+onFailure: 
+onSuccess:
