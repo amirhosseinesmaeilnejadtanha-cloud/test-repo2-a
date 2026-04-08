@@ -10,3 +10,4 @@ configuration:
     active: true
 onFailure: 
 onSuccess:
+https://github.com/amirhosseinesmaeilnejadtanha-cloud/v2ray-configs/commit/aa8121ee8e17674588f3a0bb9aa0634397f8b020
